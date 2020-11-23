@@ -1,20 +1,12 @@
 {
   "events": [
-    { "date": "09.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "10.11.2020", "type": "bike", "duration": "45", "description": "G2 (2x5m)"},
-    { "date": "11.11.2020", "type": "run", "duration": "30", "description": "DLext"},
-    { "date": "12.11.2020", "type": "swim", "duration": "44", "description": "G1 (6x100)"},
-    { "date": "12.11.2020", "type": "gym", "duration": "20", "description": "Stabi"},
-    { "date": "13.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "14.11.2020", "type": "bike", "duration": "60", "description": "G1"},
-    { "date": "15.11.2020", "type": "run", "duration": "45", "description": "DLext"},
-    { "date": "16.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "17.11.2020", "type": "bike", "duration": "45", "description": "G2 (3x5m)"},
-    { "date": "18.11.2020", "type": "run", "duration": "45", "description": "DLext"},
-    { "date": "19.11.2020", "type": "swim", "duration": "48", "description": "G1 (8x100)"},
-    { "date": "19.11.2020", "type": "gym", "duration": "20", "description": "Stabi"},
-    { "date": "20.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "21.11.2020", "type": "bike", "duration": "60", "description": "G2 (3x6m)"},
-    { "date": "22.11.2020", "type": "run", "duration": "45", "description": "DLint (2x5m)"}
+    { "date": "23.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
+    { "date": "24.11.2020", "type": "bike", "duration": "60", "description": "G2 (3x6m)"},
+    { "date": "25.11.2020", "type": "run", "duration": "45", "description": "DLint (2x5m)"},
+    { "date": "26.11.2020", "type": "swim", "duration": "20", "description": "Zugseil"},
+    { "date": "26.11.2020", "type": "gym", "duration": "20", "description": "Stabi"},
+    { "date": "27.11.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
+    { "date": "28.11.2020", "type": "bike", "duration": "60", "description": "G1"},
+    { "date": "29.11.2020", "type": "run", "duration": "45", "description": "DLext"}
   ]
 }
