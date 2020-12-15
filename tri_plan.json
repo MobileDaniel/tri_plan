@@ -1,12 +1,12 @@
 {
   "events": [
-    { "date": "07.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "08.12.2020", "type": "bike", "duration": "45", "description": "EB (3x4 min)"},
-    { "date": "09.12.2020", "type": "run", "duration": "69", "description": "Leistungstest 5km"},
-    { "date": "10.12.2020", "type": "swim", "duration": "20", "description": "Zugseil"},
-    { "date": "10.12.2020", "type": "gym", "duration": "20", "description": "Stabi"},
-    { "date": "11.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "12.12.2020", "type": "bike", "duration": "60", "description": "G2 (3x6 min)"},
-    { "date": "13.12.2020", "type": "run", "duration": "45", "description": "DLint (3x5 min)"}
+    { "date": "14.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
+    { "date": "15.12.2020", "type": "bike", "duration": "60", "description": "EB (4x4 min)"},
+    { "date": "16.12.2020", "type": "run", "duration": "45", "description": "DLint (3x5 min)"},
+    { "date": "17.12.2020", "type": "swim", "duration": "20", "description": "Zugseil"},
+    { "date": "17.12.2020", "type": "gym", "duration": "20", "description": "Stabi"},
+    { "date": "18.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
+    { "date": "19.12.2020", "type": "bike", "duration": "60", "description": "EB (3x8 min)"},
+    { "date": "20.12.2020", "type": "run", "duration": "45", "description": "DLint (3x5 min)"}
   ]
 }
