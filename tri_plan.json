@@ -1,12 +1,12 @@
 {
   "events": [
     { "date": "14.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "15.12.2020", "type": "bike", "duration": "60", "description": "EB (4x4 min)"},
-    { "date": "16.12.2020", "type": "run", "duration": "45", "description": "DLint (3x5 min)"},
+    { "date": "15.12.2020", "type": "bike", "duration": "45", "description": "G2 (2x5 min)"},
+    { "date": "16.12.2020", "type": "run", "duration": "30", "description": "DLext"},
     { "date": "17.12.2020", "type": "swim", "duration": "20", "description": "Zugseil"},
     { "date": "17.12.2020", "type": "gym", "duration": "20", "description": "Stabi"},
     { "date": "18.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "19.12.2020", "type": "bike", "duration": "60", "description": "EB (3x8 min)"},
-    { "date": "20.12.2020", "type": "run", "duration": "45", "description": "DLint (3x5 min)"}
+    { "date": "19.12.2020", "type": "bike", "duration": "60", "description": "G1 + TF-Pyramide"},
+    { "date": "20.12.2020", "type": "run", "duration": "45", "description": "DLext"}
   ]
 }
