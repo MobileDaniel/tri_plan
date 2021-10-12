@@ -1,8 +1,8 @@
 {
   "events": [
     { "date": "11.10.2021", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "12.10.2021", "type": "run", "duration": "30", "description": "DLext"},
-    { "date": "13.10.2021", "type": "bike", "duration": "45", "description": "G1"},
+    { "date": "12.10.2021", "type": "bike", "duration": "45", "description": "G1"},
+    { "date": "13.10.2021", "type": "run", "duration": "30", "description": "DLext"},
     { "date": "14.10.2021", "type": "gym", "duration": "20", "description": "Athletik & Stabi"},
     { "date": "15.10.2021", "type": "run", "duration": "30", "description": "DLext"},
     { "date": "16.10.2021", "type": "bike", "duration": "45", "description": "G2 (2x5 min)"},
