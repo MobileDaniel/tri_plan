@@ -1,12 +1,11 @@
 {
   "events": [
-    { "date": "21.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "22.12.2020", "type": "bike", "duration": "45", "description": "G2 (2x5 min)"},
-    { "date": "23.12.2020", "type": "run", "duration": "30", "description": "DLext"},
-    { "date": "24.12.2020", "type": "swim", "duration": "20", "description": "Zugseil"},
-    { "date": "24.12.2020", "type": "gym", "duration": "20", "description": "Stabi"},
-    { "date": "25.12.2020", "type": "gym", "duration": "20", "description": "Blackroll"},
-    { "date": "26.12.2020", "type": "bike", "duration": "60", "description": "G1 + TF-Pyramide"},
-    { "date": "27.12.2020", "type": "run", "duration": "45", "description": "DLext"}
+    { "date": "11.10.2021", "type": "gym", "duration": "20", "description": "Blackroll"},
+    { "date": "12.10.2021", "type": "run", "duration": "30", "description": "DLext"},
+    { "date": "13.10.2021", "type": "bike", "duration": "45", "description": "G1"},
+    { "date": "14.10.2021", "type": "gym", "duration": "20", "description": "Athletik & Stabi"},
+    { "date": "15.10.2021", "type": "run", "duration": "30", "description": "DLext"},
+    { "date": "16.10.2021", "type": "bike", "duration": "45", "description": "G2 (2x5 min)"},
+    { "date": "17.10.2021", "type": "swim", "duration": "44", "description": "Schwimmen"},
   ]
 }
